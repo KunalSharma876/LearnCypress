@@ -1,0 +1,90 @@
+{
+  "extends": "./cypress.config.js",
+  "baseUrl": "https://www.grohe-x.com/",
+  "env": {
+    "da_country": "Danmark (Denmark)",
+    "da_geographic": "Europe",
+    "da_lang": "da",
+
+    "de_country": "Deutschland (Germany)",
+    "de_geographic": "Europe",
+    "de_lang": "de-de",
+
+    "fr_country": "France",
+    "fr_geographic": "Europe",
+    "fr_lang": "fr-fr",
+
+    "hr_country": "Hrvatska (Croatia)",
+    "hr_geographic": "Europe",
+    "hr_lang": "hr-hr",
+
+    "es_country": "España (Spain)",
+    "es_geographic": "Europe",
+    "es_lang": "es-es",
+
+    "it_country": "Italy (Italy)",
+    "it_geographic": "Europe",
+    "it_lang": "it-it",
+
+    "nl_country": "Nederland (Netherlands)",
+    "nl_geographic": "Europe",
+    "nl_lang": "nl-nl",
+
+    "pl_country": "Polska (Poland)",
+    "pl_geographic": "Europe",
+    "pl_lang": "pl-pl",
+
+    "tr_country": "Türkiye (Turkey)",
+    "tr_geographic": "Europe",
+    "tr_lang": "tr-tr",
+
+    "uk_country": "United Kingdom",
+    "uk_geographic": "Europe",
+    "uk_lang": "en-gb",
+
+    "cz_country": "Česká republika (Czech Republic)",
+    "cz_geographic": "Europe",
+    "cz_lang": "cs-cz",
+
+    "ru_country": "Россия (Russia)",
+    "ru_geographic": "Europe",
+    "ru_lang": "ru-ru",
+
+    "tr_asia_geographic": "Asia Pacific",
+
+    "ru_asia_geographic": "Asia Pacific",
+
+    "eventOnDemandPage": "/events-on-demand",
+    "watchNowPage": "/watchnow",
+    "getInspiredPage": "/get-inspired",
+    "newsroomPage": "/newsroom-overview",
+    "architectureWorldPage": "/architekturwelt",
+    "articlePage": "newsroom-overview/news-overview-international/brand_reference-book-no-10",
+    "articlePageTitle": "Brand_Reference Book No 10",
+
+    "storyTellingPage": "get-inspired/grohestories/waterfromthetap/waterfromthetap",
+    "storyTellingPageTitle": "TOP OF THE TAP: FRESH FILTERED DRINKING WATER WITH GROHE",
+
+    "breadcrumb": "get-inspired/bathroomstories/rainshower-smartactive",
+    "breadcrumbPageTitle": "Bathroom Stories",
+
+    "error404Page": "error404Page",
+    "error404PageTitle": "404 Errorpage",
+
+    "uk_en": "contact",
+
+    "loggedInUser": "Greg GROHE",
+    "username": "internal_invited",
+    "password": "Spreading-Heading-Knowledgestorm-Expedia-7",
+    "pageTitle": "My GROHE X",
+
+    "instagram": "https://www.instagram.com/grohe_global/?hl=en",
+    "linkedIn": "https://www.linkedin.com/company/grohe",
+    "twitter": "https://twitter.com/grohe",
+    "imprint": "/en/imprint",
+    "privacy": "/en/data-protection-and-privacy",
+    "codeOfConduct": "/en/code-of-conduct",
+    "contactGrohe": "/en/contact",
+    "cookieSetting": "#"
+  }
+}

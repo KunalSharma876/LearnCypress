@@ -1,0 +1,21 @@
+{
+  "name": "cy10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:poc:open": "cypress open --env configFile=poc",
+    "cy:prod:open": "cypress open --env configFile=prod"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "javscript",
+    "typescript"
+  ],
+  "author": "ksharma",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.0.3"
+  }
+}

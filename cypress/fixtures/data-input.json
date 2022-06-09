@@ -1,0 +1,177 @@
+{
+  "homePage": {
+    "prodUrl": "https://www.grohe-x.com",
+    "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud"
+  },
+  "eventOnDemandPage": {
+    "prodUrl": "https://www.grohe-x.com/en/events-on-demand",
+    "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud/en/events-on-demand",
+    "pageTitle": "Events",
+    "de_prodUrl": "https://www.grohe-x.com/de-de/events-on-demand"
+  },
+  "watchNowPage": {
+    "prodUrl": "https://www.grohe-x.com/en/watchnow",
+    "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud/en/watchnow",
+    "pageTitle": "Watch Now",
+    "de_prodUrl": "https://www.grohe-x.com/de-de/watchnow"
+  },
+  "getInspiredPage": {
+    "prodUrl": "https://www.grohe-x.com/en/get-inspired",
+    "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud/en/get-inspired",
+    "pageTitle": "Get inspired",
+    "de_prodUrl": "https://www.grohe-x.com/de-de/get-inspired"
+  },
+  "newsroomPage": {
+    "prodUrl": "https://www.grohe-x.com/en/newsroom-overview",
+    "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud/en/newsroom-overview",
+    "pageTitle": "Newsroom Overview",
+    "de_prodUrl": "https://www.grohe-x.com/de-de/newsroom-overview"
+  },
+  "architectureWorldPage": {
+    "de_prodUrl": "https://www.grohe-x.com/de-de/architekturwelt"
+  },
+
+  "articlePage": {
+    "prodUrl": "https://www.grohe-x.com/en/newsroom-overview/news-overview-international/brand_start-of-daniela",
+    "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud/en/newsroom-overview/news-overview-international/brand_start-of-daniela",
+    "pageTitle": "Brand_New Leader Comms_Daniela"
+  },
+  "storyTellingPage": {
+    "prodUrl": "https://www.grohe-x.com/en/get-inspired/grohestories/waterfromthetap/waterfromthetap",
+    "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud/en/get-inspired/grohestories/waterfromthetap/waterfromthetap",
+    "pageTitle": "Water From The Tap"
+  },
+  "error404Page": {
+    "errorPageURL": "https://www.grohe-x.com/en/error404page",
+    "pageTitle": "404 Errorpage"
+  },
+  "breadcrumb": {
+    "prodUrl": "https://www.grohe-x.com/en/get-inspired/bathroomstories/rainshower-smartactive",
+    "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud/en/get-inspired/bathroomstories/rainshower-smartactive",
+    "breadcrumbPageTitle": "Bathroom Stories"
+  },
+  "switchThemeMode": {
+    "lightMode": "light",
+    "darkMode": "dark"
+  },
+  "countryLanguage": {
+    "denmark": {
+      "country": "Danmark (Denmark)",
+      "geographic": "Europe",
+      "lang": "da"
+    },
+    "germany": {
+      "country": "Deutschland (Germany)",
+      "geographic": "Europe",
+      "lang": "de-de"
+    },
+    "spain": {
+      "country": "España (Spain)",
+      "geographic": "Europe",
+      "lang": "es-es"
+    },
+    "france": {
+      "country": "France",
+      "geographic": "Europe",
+      "lang": "fr-fr"
+    },
+    "croatia": {
+      "country": "Hrvatska (Croatia)",
+      "geographic": "Europe",
+      "lang": "hr-hr"
+    },
+    "italy": {
+      "country": "Italy (Italy)",
+      "geographic": "Europe",
+      "lang": "it-it"
+    },
+    "netherlands": {
+      "country": "Nederland (Netherlands)",
+      "geographic": "Europe",
+      "lang": "en-nl"
+    },
+    "poland": {
+      "country": "Polska (Poland)",
+      "geographic": "Europe",
+      "lang": "pl-pl"
+    },
+    "turkey": {
+      "country": "Türkiye (Turkey)",
+      "geographic": "Europe",
+      "lang": "tr-tr"
+    },
+    "united_kingdom": {
+      "country": "United Kingdom",
+      "geographic": "Europe",
+      "lang": "en-gb"
+    },
+    "czech_republic": {
+      "country": "Česká republika (Czech Republic)",
+      "geographic": "Europe",
+      "lang": "cs-cz"
+    },
+    "russia": {
+      "country": "Россия (Russia)",
+      "geographic": "Europe",
+      "lang": "ru-ru"
+    },
+    "turkey_asia": {
+      "country": "Türkiye (Turkey)",
+      "geographic": "Asia Pacific",
+      "lang": "tr-tr"
+    },
+    "russia_asia": {
+      "country": "Россия (Russia)",
+      "geographic": "Asia Pacific",
+      "lang": "ru-ru"
+    }
+  },
+  "meetAnExpert": {
+    "occasionText": "Kitchen Product",
+    "channelText": "Phone",
+    "confirmationMessage": "We've received your request"
+  },
+  "websiteFeedback": {
+    "confirmationMessage": "We received your feedback."
+  },
+
+  "socialShare": {
+    "prod": {
+      "instagram": "https://www.instagram.com/grohe_global/?hl=en",
+      "linkedIn": "https://www.linkedin.com/company/grohe",
+      "twitter": "https://twitter.com/grohe",
+      "imprint": "/en/imprint",
+      "privacy": "/en/data-protection-and-privacy",
+      "codeOfConduct": "/en/code-of-conduct",
+      "contactGrohe": "/en/contact",
+      "cookieSetting": "#"
+    }
+  },
+
+  "contactForm": {
+    "uk_en": {
+      "prodUrl": "https://www.grohe-x.com/en/contact",
+      "pocUrl": "https://716a4480-eu-de.lb.appdomain.cloud/en/contact"
+    }
+  },
+  "loginPage": {
+    "credentials": {
+      "loggedInUser": "Greg GROHE",
+      "username": "internal_invited",
+      "password": "Spreading-Heading-Knowledgestorm-Expedia-7",
+      "pageTitle": "My GROHE X"
+    },
+
+    "denmark_danish": {
+      "prodUrl": "https://www.grohe-x.com/da/"
+    },
+
+    "turkey_turkish": {
+      "prodUrl": "https://www.grohe-x.com/tr-tr/"
+    },
+
+    "russia_russian": {
+      "prodUrl": "https://www.grohe-x.com/ru-ru/"
+    }
+  }
+}

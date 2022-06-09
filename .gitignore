@@ -1,0 +1,6 @@
+/Cypress/node_modules
+/Cypress/package-lock.json
+/.idea
+/Cypress/cypress/screenshots
+/Cypress/cypress/videos
+/Cypress/results
